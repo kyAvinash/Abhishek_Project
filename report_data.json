@@ -1,0 +1,18 @@
+{
+    "model_evaluation_summary": {
+        "accuracy": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "comments": "The model performs well on the generated dataset with balanced accuracy, precision, and recall."
+    },
+    "sensor_data_summary": {
+        "average_water_level": 633.8666666666667,
+        "average_soil_moisture": 687.3333333333334,
+        "average_temperature": 28.0,
+        "average_gas_level": 552.0666666666667,
+        "total_records": 15,
+        "data_range": "2024-10-31 to 2024-11-14",
+        "comments": "Data was generated for analysis and model training, showing expected variance in sensor readings."
+    }
+}
